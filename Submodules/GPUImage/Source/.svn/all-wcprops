@@ -1,0 +1,1733 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source
+END
+GLProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GLProgram.h
+END
+GPUImageSepiaFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSepiaFilter.m
+END
+GPUImageHighPassFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHighPassFilter.h
+END
+GPUimageDirectionalSobelEdgeDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUimageDirectionalSobelEdgeDetectionFilter.h
+END
+GPUImageNonMaximumSuppressionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageNonMaximumSuppressionFilter.m
+END
+GPUImageAdaptiveThresholdFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageAdaptiveThresholdFilter.h
+END
+GLProgram.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GLProgram.m
+END
+GPUImageExposureFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageExposureFilter.h
+END
+GPUImageHighPassFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHighPassFilter.m
+END
+GPUimageDirectionalSobelEdgeDetectionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUimageDirectionalSobelEdgeDetectionFilter.m
+END
+GPUImageAdaptiveThresholdFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageAdaptiveThresholdFilter.m
+END
+GPUImageExposureFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageExposureFilter.m
+END
+GPUImagePerlinNoiseFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePerlinNoiseFilter.h
+END
+GPUImageLuminanceThresholdFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLuminanceThresholdFilter.h
+END
+GPUImageThresholdedNonMaximumSuppressionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageThresholdedNonMaximumSuppressionFilter.h
+END
+GPUImageSaturationFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSaturationFilter.h
+END
+GPUImageMotionDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMotionDetector.h
+END
+GPUImagePerlinNoiseFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePerlinNoiseFilter.m
+END
+GPUImageLuminanceThresholdFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLuminanceThresholdFilter.m
+END
+GPUImageHistogramFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHistogramFilter.h
+END
+GPUImageThresholdedNonMaximumSuppressionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageThresholdedNonMaximumSuppressionFilter.m
+END
+GPUImageSaturationFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSaturationFilter.m
+END
+GPUImageRGBDilationFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageRGBDilationFilter.h
+END
+GPUImageMotionDetector.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMotionDetector.m
+END
+GPUImageHistogramFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHistogramFilter.m
+END
+GPUImageRGBDilationFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageRGBDilationFilter.m
+END
+GPUImageAverageColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageAverageColor.h
+END
+GPUImageKuwaharaFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageKuwaharaFilter.h
+END
+GPUImageMovieWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMovieWriter.h
+END
+GPUImageAverageColor.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageAverageColor.m
+END
+GPUImageKuwaharaFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageKuwaharaFilter.m
+END
+GPUImageOpenGLESContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageOpenGLESContext.h
+END
+GPUImageMovieWriter.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMovieWriter.m
+END
+GPUImageWeakPixelInclusionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageWeakPixelInclusionFilter.h
+END
+GPUImageFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageFilter.h
+END
+GPUImageOpenGLESContext.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageOpenGLESContext.m
+END
+GPUImageWeakPixelInclusionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageWeakPixelInclusionFilter.m
+END
+GPUImageFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageFilter.m
+END
+GPUImageMedianFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMedianFilter.h
+END
+GPUImageSharpenFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSharpenFilter.h
+END
+GPUImageMedianFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMedianFilter.m
+END
+GPUImageDilationFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageDilationFilter.h
+END
+GPUImageColorMatrixFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageColorMatrixFilter.h
+END
+GPUImageSharpenFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSharpenFilter.m
+END
+GPUImageCGAColorspaceFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageCGAColorspaceFilter.h
+END
+GPUImageNobleCornerDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageNobleCornerDetectionFilter.h
+END
+GPUImageDilationFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageDilationFilter.m
+END
+GPUImageColorMatrixFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageColorMatrixFilter.m
+END
+GPUImageCGAColorspaceFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageCGAColorspaceFilter.m
+END
+GPUImageNobleCornerDetectionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageNobleCornerDetectionFilter.m
+END
+GPUImagePinchDistortionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePinchDistortionFilter.h
+END
+GPUImagePinchDistortionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePinchDistortionFilter.m
+END
+GPUImageRawDataOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageRawDataOutput.h
+END
+GPUImageGaussianBlurFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageGaussianBlurFilter.h
+END
+GPUImageRawDataOutput.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageRawDataOutput.m
+END
+GPUImageGaussianBlurFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageGaussianBlurFilter.m
+END
+GPUImageToonFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageToonFilter.h
+END
+GPUImageSketchFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSketchFilter.h
+END
+GPUImageXYDerivativeFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageXYDerivativeFilter.h
+END
+GPUImagePosterizeFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePosterizeFilter.h
+END
+GPUImageToonFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageToonFilter.m
+END
+GPUImageSketchFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSketchFilter.m
+END
+GPUImageXYDerivativeFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageXYDerivativeFilter.m
+END
+GPUImagePosterizeFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePosterizeFilter.m
+END
+GPUImageFalseColorFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageFalseColorFilter.h
+END
+GPUImageContrastFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageContrastFilter.h
+END
+GPUImageFalseColorFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageFalseColorFilter.m
+END
+GPUImageContrastFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageContrastFilter.m
+END
+GPUImageHoughTransformLineDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHoughTransformLineDetector.h
+END
+GPUImageSingleComponentFastBlurFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSingleComponentFastBlurFilter.h
+END
+GPUImageHoughTransformLineDetector.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHoughTransformLineDetector.m
+END
+GPUImageTiltShiftFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageTiltShiftFilter.h
+END
+GPUImageTextureInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageTextureInput.h
+END
+GPUImageSingleComponentFastBlurFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSingleComponentFastBlurFilter.m
+END
+GPUImageTiltShiftFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageTiltShiftFilter.m
+END
+GPUImageTextureInput.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageTextureInput.m
+END
+GPUImageAverageLuminanceThresholdFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageAverageLuminanceThresholdFilter.h
+END
+GPUImageScreenBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageScreenBlendFilter.h
+END
+GPUImageAverageLuminanceThresholdFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageAverageLuminanceThresholdFilter.m
+END
+GPUImageScreenBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageScreenBlendFilter.m
+END
+GPUImageDifferenceBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageDifferenceBlendFilter.h
+END
+GPUImageBilateralFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageBilateralFilter.h
+END
+GPUImageHalftoneFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHalftoneFilter.h
+END
+GPUImageTwoPassFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageTwoPassFilter.h
+END
+GPUImageDifferenceBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageDifferenceBlendFilter.m
+END
+GPUImageBilateralFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageBilateralFilter.m
+END
+GPUImageHalftoneFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHalftoneFilter.m
+END
+GPUImageTwoPassFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageTwoPassFilter.m
+END
+GPUImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImage.h
+END
+GPUImageDivideBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageDivideBlendFilter.h
+END
+GPUImageDivideBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageDivideBlendFilter.m
+END
+GPUImageThresholdEdgeDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageThresholdEdgeDetectionFilter.h
+END
+GPUImageGlassSphereFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageGlassSphereFilter.h
+END
+GPUImageChromaKeyFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageChromaKeyFilter.h
+END
+GPUImageThresholdEdgeDetectionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageThresholdEdgeDetectionFilter.m
+END
+GPUImageGlassSphereFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageGlassSphereFilter.m
+END
+GPUImageChromaKeyFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageChromaKeyFilter.m
+END
+GPUImageLineGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLineGenerator.h
+END
+GPUImageOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageOutput.h
+END
+GPUImageMaskFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMaskFilter.h
+END
+GPUImageCannyEdgeDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageCannyEdgeDetectionFilter.h
+END
+GPUImageLineGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLineGenerator.m
+END
+GPUImageOutput.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageOutput.m
+END
+GPUImageMaskFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMaskFilter.m
+END
+GPUImageCannyEdgeDetectionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageCannyEdgeDetectionFilter.m
+END
+GPUImageCropFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageCropFilter.h
+END
+GPUImageGaussianSelectiveBlurFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageGaussianSelectiveBlurFilter.h
+END
+GPUImageOpacityFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageOpacityFilter.h
+END
+GPUImageCropFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageCropFilter.m
+END
+GPUImageGaussianSelectiveBlurFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageGaussianSelectiveBlurFilter.m
+END
+GPUImageMovie.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMovie.h
+END
+GPUImageSolidColorGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSolidColorGenerator.h
+END
+GPUImageColorPackingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageColorPackingFilter.h
+END
+GPUImageOpacityFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageOpacityFilter.m
+END
+GPUImageMovie.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMovie.m
+END
+GPUImageSolidColorGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSolidColorGenerator.m
+END
+GPUImageColorPackingFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageColorPackingFilter.m
+END
+GPUImageMultiplyBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMultiplyBlendFilter.h
+END
+GPUImagePolarPixellateFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePolarPixellateFilter.h
+END
+GPUImageWhiteBalanceFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageWhiteBalanceFilter.h
+END
+GPUImageMultiplyBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMultiplyBlendFilter.m
+END
+GPUImagePolarPixellateFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePolarPixellateFilter.m
+END
+GPUImageLanczosResamplingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLanczosResamplingFilter.h
+END
+GPUImageWhiteBalanceFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageWhiteBalanceFilter.m
+END
+GPUImageDissolveBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageDissolveBlendFilter.h
+END
+GPUImageLanczosResamplingFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLanczosResamplingFilter.m
+END
+GPUImageDissolveBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageDissolveBlendFilter.m
+END
+GPUImageBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageBuffer.h
+END
+GPUImageBuffer.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageBuffer.m
+END
+GPUImageColorBurnBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageColorBurnBlendFilter.h
+END
+GPUImageTextureOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageTextureOutput.h
+END
+GPUImageTwoPassTextureSamplingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageTwoPassTextureSamplingFilter.h
+END
+GPUImageErosionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageErosionFilter.h
+END
+GPUImageColorBurnBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageColorBurnBlendFilter.m
+END
+GPUImageTextureOutput.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageTextureOutput.m
+END
+GPUImageTwoPassTextureSamplingFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageTwoPassTextureSamplingFilter.m
+END
+GPUImageErosionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageErosionFilter.m
+END
+GPUImagePixellateFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePixellateFilter.h
+END
+GPUImageTwoInputFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageTwoInputFilter.h
+END
+GPUImagePixellateFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePixellateFilter.m
+END
+GPUImageLocalBinaryPatternFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLocalBinaryPatternFilter.h
+END
+GPUImageAddBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageAddBlendFilter.h
+END
+GPUImageTwoInputFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageTwoInputFilter.m
+END
+GPUImageLocalBinaryPatternFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLocalBinaryPatternFilter.m
+END
+GPUImageAddBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageAddBlendFilter.m
+END
+GPUImageRGBFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageRGBFilter.h
+END
+GPUImageToneCurveFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageToneCurveFilter.h
+END
+GPUImageBulgeDistortionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageBulgeDistortionFilter.h
+END
+GPUImageRGBFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageRGBFilter.m
+END
+GPUImageToneCurveFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageToneCurveFilter.m
+END
+GPUImageBulgeDistortionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageBulgeDistortionFilter.m
+END
+GPUImage3x3TextureSamplingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImage3x3TextureSamplingFilter.h
+END
+GPUImageThresholdSketchFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageThresholdSketchFilter.h
+END
+GPUImage3x3TextureSamplingFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImage3x3TextureSamplingFilter.m
+END
+GPUImageOpeningFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageOpeningFilter.h
+END
+GPUImageAmatorkaFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageAmatorkaFilter.h
+END
+GPUImageThresholdSketchFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageThresholdSketchFilter.m
+END
+GPUImageOpeningFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageOpeningFilter.m
+END
+GPUImageAmatorkaFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageAmatorkaFilter.m
+END
+GPUImageMonochromeFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMonochromeFilter.h
+END
+GPUImageSoftLightBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSoftLightBlendFilter.h
+END
+GPUImageGrayscaleFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageGrayscaleFilter.h
+END
+GPUImageMonochromeFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMonochromeFilter.m
+END
+GPUImageSoftLightBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSoftLightBlendFilter.m
+END
+GPUImageGrayscaleFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageGrayscaleFilter.m
+END
+GPUImagePrewittEdgeDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePrewittEdgeDetectionFilter.h
+END
+GPUImageGammaFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageGammaFilter.h
+END
+GPUImageVignetteFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageVignetteFilter.h
+END
+GPUImagePrewittEdgeDetectionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePrewittEdgeDetectionFilter.m
+END
+GPUImageGammaFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageGammaFilter.m
+END
+GPUImageVignetteFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageVignetteFilter.m
+END
+GPUImageSubtractBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSubtractBlendFilter.h
+END
+GPUImageFilterGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageFilterGroup.h
+END
+GPUImageSoftEleganceFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSoftEleganceFilter.h
+END
+GPUImageSwirlFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSwirlFilter.h
+END
+GPUImageSubtractBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSubtractBlendFilter.m
+END
+GPUImageSourceOverBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSourceOverBlendFilter.h
+END
+GPUImageFilterGroup.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageFilterGroup.m
+END
+GPUImageSoftEleganceFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSoftEleganceFilter.m
+END
+GPUImageSwirlFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSwirlFilter.m
+END
+GPUImageSourceOverBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSourceOverBlendFilter.m
+END
+GPUImageParallelCoordinateLineTransformFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageParallelCoordinateLineTransformFilter.h
+END
+GPUImageBrightnessFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageBrightnessFilter.h
+END
+GPUImageParallelCoordinateLineTransformFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageParallelCoordinateLineTransformFilter.m
+END
+GPUImageBoxBlurFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageBoxBlurFilter.h
+END
+GPUImageBrightnessFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageBrightnessFilter.m
+END
+GPUImageExclusionBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageExclusionBlendFilter.h
+END
+GPUImageBoxBlurFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageBoxBlurFilter.m
+END
+GPUImageExclusionBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageExclusionBlendFilter.m
+END
+GPUImageChromaKeyBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageChromaKeyBlendFilter.h
+END
+GPUImageSobelEdgeDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSobelEdgeDetectionFilter.h
+END
+GPUImageEmbossFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageEmbossFilter.h
+END
+GPUImageStillCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageStillCamera.h
+END
+GPUImageChromaKeyBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageChromaKeyBlendFilter.m
+END
+GPUImageSobelEdgeDetectionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSobelEdgeDetectionFilter.m
+END
+GPUImageEmbossFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageEmbossFilter.m
+END
+GPUImageHistogramGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHistogramGenerator.h
+END
+GPUImageStillCamera.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageStillCamera.m
+END
+GPUImageCrosshatchFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageCrosshatchFilter.h
+END
+GPUImageHistogramGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHistogramGenerator.m
+END
+GPUImageCrosshatchFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageCrosshatchFilter.m
+END
+GPUImageSmoothToonFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSmoothToonFilter.h
+END
+GPUImageRGBErosionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageRGBErosionFilter.h
+END
+GPUImageSmoothToonFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSmoothToonFilter.m
+END
+GPUImageRGBErosionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageRGBErosionFilter.m
+END
+GPUImageUIElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageUIElement.h
+END
+GPUImageUIElement.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageUIElement.m
+END
+GPUImageStretchDistortionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageStretchDistortionFilter.h
+END
+GPUImageClosingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageClosingFilter.h
+END
+GPUImageLightenBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLightenBlendFilter.h
+END
+GPUImageStretchDistortionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageStretchDistortionFilter.m
+END
+GPUImageSphereRefractionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSphereRefractionFilter.h
+END
+GPUImageClosingFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageClosingFilter.m
+END
+GPUImageLightenBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLightenBlendFilter.m
+END
+GPUImageSphereRefractionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSphereRefractionFilter.m
+END
+GPUImageVideoCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageVideoCamera.h
+END
+GPUImageShiTomasiFeatureDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageShiTomasiFeatureDetectionFilter.h
+END
+GPUImageVideoCamera.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageVideoCamera.m
+END
+GPUImageShiTomasiFeatureDetectionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageShiTomasiFeatureDetectionFilter.m
+END
+GPUImageHueFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHueFilter.h
+END
+GPUImageFastBlurFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageFastBlurFilter.h
+END
+GPUImageOverlayBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageOverlayBlendFilter.h
+END
+GPUImageHueFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHueFilter.m
+END
+GPUImage-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImage-Prefix.pch
+END
+GPUImageFastBlurFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageFastBlurFilter.m
+END
+GPUImageLowPassFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLowPassFilter.h
+END
+GPUImageVoroniConsumerFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageVoroniConsumerFilter.h
+END
+GPUImageRGBOpeningFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageRGBOpeningFilter.h
+END
+GPUImageOverlayBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageOverlayBlendFilter.m
+END
+GPUImageRawDataInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageRawDataInput.h
+END
+GPUImageNormalBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageNormalBlendFilter.h
+END
+GPUImageLowPassFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLowPassFilter.m
+END
+GPUImageVoroniConsumerFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageVoroniConsumerFilter.m
+END
+GPUImageRGBOpeningFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageRGBOpeningFilter.m
+END
+GPUImageRawDataInput.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageRawDataInput.m
+END
+GPUImageNormalBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageNormalBlendFilter.m
+END
+GPUImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageView.h
+END
+GPUImageFilterPipeline.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageFilterPipeline.h
+END
+GPUImageLuminosity.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLuminosity.h
+END
+GPUImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageView.m
+END
+GPUImageFilterPipeline.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageFilterPipeline.m
+END
+GPUImageLuminosity.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLuminosity.m
+END
+GPUImageHardLightBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHardLightBlendFilter.h
+END
+GPUImage3x3ConvolutionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImage3x3ConvolutionFilter.h
+END
+GPUImageHighlightShadowFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHighlightShadowFilter.h
+END
+GPUImageHardLightBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHardLightBlendFilter.m
+END
+GPUImage3x3ConvolutionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImage3x3ConvolutionFilter.m
+END
+GPUImageHighlightShadowFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHighlightShadowFilter.m
+END
+GPUImageColorDodgeBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageColorDodgeBlendFilter.h
+END
+GPUImageHazeFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHazeFilter.h
+END
+GPUImageColorDodgeBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageColorDodgeBlendFilter.m
+END
+GPUImageHazeFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHazeFilter.m
+END
+GPUImageUnsharpMaskFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageUnsharpMaskFilter.h
+END
+GPUImageCrosshairGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageCrosshairGenerator.h
+END
+GPUImageHarrisCornerDetectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHarrisCornerDetectionFilter.h
+END
+GPUImageUnsharpMaskFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageUnsharpMaskFilter.m
+END
+GPUImageCrosshairGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageCrosshairGenerator.m
+END
+GPUImagePicture.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePicture.h
+END
+GPUImageHarrisCornerDetectionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageHarrisCornerDetectionFilter.m
+END
+GPUImageDarkenBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageDarkenBlendFilter.h
+END
+GPUImagePicture.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePicture.m
+END
+GPUImageTransformFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageTransformFilter.h
+END
+GPUImagePolkaDotFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePolkaDotFilter.h
+END
+GPUImageDarkenBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageDarkenBlendFilter.m
+END
+GPUImageTransformFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageTransformFilter.m
+END
+GPUImageDirectionalNonMaximumSuppressionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageDirectionalNonMaximumSuppressionFilter.h
+END
+GPUImagePolkaDotFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImagePolkaDotFilter.m
+END
+GPUImageMissEtikateFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMissEtikateFilter.h
+END
+GPUImageSingleComponentGaussianBlurFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSingleComponentGaussianBlurFilter.h
+END
+GPUImageDirectionalNonMaximumSuppressionFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageDirectionalNonMaximumSuppressionFilter.m
+END
+GPUImageMissEtikateFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMissEtikateFilter.m
+END
+GPUImageSingleComponentGaussianBlurFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSingleComponentGaussianBlurFilter.m
+END
+GPUImageLevelsFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLevelsFilter.h
+END
+GPUImageJFAVoroniFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageJFAVoroniFilter.h
+END
+GPUImageLevelsFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLevelsFilter.m
+END
+GPUImageJFAVoroniFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageJFAVoroniFilter.m
+END
+GPUImageColorInvertFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageColorInvertFilter.h
+END
+GPUImageLookupFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLookupFilter.h
+END
+GPUImageMosaicFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMosaicFilter.h
+END
+GPUImageColorInvertFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageColorInvertFilter.m
+END
+GPUImageLookupFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageLookupFilter.m
+END
+GPUImageMosaicFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageMosaicFilter.m
+END
+GPUImageRGBClosingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageRGBClosingFilter.h
+END
+GPUImageAlphaBlendFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageAlphaBlendFilter.h
+END
+GPUImageRGBClosingFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageRGBClosingFilter.m
+END
+GPUImageAlphaBlendFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageAlphaBlendFilter.m
+END
+GPUImageSepiaFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageSepiaFilter.h
+END
+GPUImageNonMaximumSuppressionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Camcoder/!svn/ver/1/Submodules/GPUImage/Source/GPUImageNonMaximumSuppressionFilter.h
+END
